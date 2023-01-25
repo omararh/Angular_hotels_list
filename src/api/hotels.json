@@ -1,0 +1,33 @@
+[{
+        "hotelId": 1,
+        "hotelName": "Buea sweet life",
+        "description": "Belle vue au bord de la mer",
+        "price": 230.5,
+        "imageUrl": "assets/this-is-a-new-hotel-wdc.jpg",
+        "rating": 3
+    },
+    {
+        "hotelId": 2,
+        "hotelName": "Marakech",
+        "description": "Profitez de la vue sur les montagnes",
+        "price": 145.5,
+        "imageUrl": "assets/280447039.jpg",
+        "rating": 5
+    },
+    {
+        "hotelId": 3,
+        "hotelName": "Abudja new look palace",
+        "description": "Séjour complet avec service de voitures",
+        "price": 120.12,
+        "imageUrl": "assets/radissonhotelandapartmentsabidjanplateau.webp",
+        "rating": 4
+    },
+    {
+        "hotelId": 4,
+        "hotelName": "Cape town city",
+        "description": "Magnifique cadre pour votre séjour",
+        "price": 135.12,
+        "imageUrl": "assets/ct+city+hall+f286b26443b4449cbf90bb0e1265db8f.jpg",
+        "rating": 2
+    }
+]
