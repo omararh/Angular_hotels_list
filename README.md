@@ -1,3 +1,3 @@
 * récupérer une liste d'hotels depuis une API.
-* bar de recherche pour accéder au différents hotels
+* bar de recherche pour accéder au différents hotels plus facilement
 * Méttre en place une route hotel/id-hotel pour donner des détails sur chaque hotel + une route vers la home page
